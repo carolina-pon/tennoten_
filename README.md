@@ -1,5 +1,5 @@
 # 点の展オンラインギャラリーHP
-- 現在2023年春の展示に向け、機能追加と修正を行っています。
+[![Image from Gyazo](https://i.gyazo.com/df2fb43b8aff4098b1637044b5f2ab3c.png)](https://gyazo.com/df2fb43b8aff4098b1637044b5f2ab3c)
 - アプリの設計や作成背景はこちらから
     - [点の展2023/HP企画 - HackMD](https://hackmd.io/XDae1X20QeGdKVG1Yz0OmQ)
 ## 使用技術(2022年リリース時のもの)
