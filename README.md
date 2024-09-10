@@ -15,6 +15,6 @@
 - Ruby 2.6.6
 - Rails 6.1.3
 ### データベース/インフラ
-- MySQL
+- PostgreSQL
 - Heroku
 - AWS/S3
